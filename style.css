@@ -3,6 +3,11 @@ body {
   font-size: 16px;
 }
 
+
+header {
+  background-color: rgb(64, 151, 212);
+}
+
 textarea {
   background: transparent;
   border: none;
@@ -14,6 +19,8 @@ textarea {
 
 .description {
   white-space: pre-wrap;
+  border-bottom: solid 1px;
+  border-top: solid 1px;
 }
 
 .time-block {
